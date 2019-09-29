@@ -31,3 +31,30 @@ Clone this repository:
 git clone https://github.com/jtorde/uav_adaptive_control
 ```
 and execute the file `main.m` in MATLAB
+
+
+### Results for constant parameters:
+
+* **Estimated parameters**
+![](./imgs/estimated_parameters1.png) 
+
+* **Position error**
+![](./imgs/position_errors1.png) 
+
+* **Inputs**
+![](./imgs/inputs1.png) 
+
+### Results for time-varying parameters:
+
+* **Estimated parameters**
+![](./imgs/estimated_parameterstime_var.png) 
+
+* **Position error**
+![](./imgs/position_errorstime_var.png) 
+
+* **Inputs**
+![](./imgs/inputstime_var.png) 
+
+
+### License
+Academic license - for non-commercial use only
