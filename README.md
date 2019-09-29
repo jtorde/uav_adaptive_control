@@ -1,4 +1,4 @@
-# Adaptive Control  #
+# Adaptive Control for UAVs  #
 
 Author: Jesus Tordesillas
 
