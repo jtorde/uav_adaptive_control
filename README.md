@@ -2,7 +2,7 @@
 
 Author: Jesus Tordesillas
 
-This repo has the code implemented for the project of Nonlinear Control (6.832) at MIT.
+This repo has the code implemented for the project of Nonlinear Control (2.152) at MIT.
 
 ```
 @techreport{jtordeadaptive2019,
