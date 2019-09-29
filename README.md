@@ -25,6 +25,8 @@ Implementation in MATLAB of the following adaptive controllers:
 
 ![](./imgs/adaptive_control.PNG) 
 
+See the [pdf file](https://github.com/jtorde/uav_adaptive_control/blob/master/Project_Jesus_Tordesillas_Torres.pdf) for a detailed description.
+
 ### Instructions:
 Clone this repository:
 ```
@@ -32,28 +34,32 @@ git clone https://github.com/jtorde/uav_adaptive_control
 ```
 and execute the file `main.m` in MATLAB
 
-
 ### Results for constant parameters:
 
-* **Estimated parameters**
+* **Estimated parameters:**
 ![](./imgs/estimated_parameters1.png) 
 
-* **Position error**
+* **Position error:**
 ![](./imgs/position_errors1.png) 
 
-* **Inputs**
+* **Inputs:**
 ![](./imgs/inputs1.png) 
 
 ### Results for time-varying parameters:
 
-* **Estimated parameters**
+* **Estimated parameters:**
 ![](./imgs/estimated_parameterstime_var.png) 
 
-* **Position error**
+* **Position error:**
 ![](./imgs/position_errorstime_var.png) 
 
-* **Inputs**
+* **Inputs:**
 ![](./imgs/inputstime_var.png) 
+
+### Feedback Linearization:
+
+
+![](./imgs/feedback_lin.png) 
 
 
 ### License
