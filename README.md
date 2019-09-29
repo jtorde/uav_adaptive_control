@@ -16,7 +16,7 @@ This repo has the code implemented for the project of Nonlinear Control (2.152) 
 ```
 
 ### Introduction:
-Implementation in matlab of the following adaptive controllers:
+Implementation in MATLAB of the following adaptive controllers:
 
 * Tracking error based (TEB)
 * Constant gain (CG)
