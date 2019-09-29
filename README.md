@@ -23,4 +23,4 @@ Implementation in matlab of the following adaptive controllers:
 * Bounded-gainforgetting (BGF)
 * Cushioned-floor (CF)
 
-![](./imgs/adaptive_control.png) 
+![](./imgs/adaptive_control.PNG) 
