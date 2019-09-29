@@ -24,3 +24,10 @@ Implementation in matlab of the following adaptive controllers:
 * Cushioned-floor (CF)
 
 ![](./imgs/adaptive_control.PNG) 
+
+### Instructions:
+Clone this repository:
+```
+git clone https://github.com/jtorde/uav_adaptive_control
+```
+and execute the file `main.m` in MATLAB
