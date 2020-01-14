@@ -63,4 +63,4 @@ and execute the file `main.m` in MATLAB
 
 
 ### License
-Academic license - for non-commercial use only
+BSD 3-Clause, see License file attached
