@@ -2,9 +2,9 @@
 
 Author: Jesus Tordesillas
 
-This repo has the code implemented for the project of Nonlinear Control (2.152) at MIT.
+This repo has the code implemented for the project of Nonlinear Control (2.152) at MIT. When using this code, please cite it as follows:
 
-```
+```bibtex
 @techreport{jtordeadaptive2019,
      title = {{Parameter Estimation and Dynamic Extension for a Quadrotor}},
      author = {Jesus Tordesillas},
